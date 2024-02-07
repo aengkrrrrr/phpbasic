@@ -15,4 +15,4 @@
    echo "키워드 {$_GET['keyword']}의 검색 결과입니다.";
    ?>
 </body>
-</html>
+</html> 
